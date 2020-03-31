@@ -41,6 +41,7 @@ max_0s_acc = [0.0,"put_name_here"]
 max_1s_acc = [0.0,"put_name_here"]
 accs = np.zeros((4,5))
 for link in range(len(linkages)):
+    results = []
 	for affs in range(len(affinities)):
 		if link==0 and affs>0:
 			continue
