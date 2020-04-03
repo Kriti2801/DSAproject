@@ -1,0 +1,1330 @@
+Linkage,Affinity =  ward , euclidean 
+
+PCA components =  2 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  17252
+	Overall Accuracy =  96.39065817409767
+	Correctly predicted 0s:  16240  out of 16,259
+	Accuracy of 0s prediction:  99.88314164462759
+	Correctly predicted 1s:  1012  out of 1,639
+	Accuracy of 1s prediction:  61.74496644295302
+
+
+
+--------End of PCA iter--------
+PCA components =  3 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  17132
+	Overall Accuracy =  95.72019220024583
+	Correctly predicted 0s:  16246  out of 16,259
+	Accuracy of 0s prediction:  99.92004428316625
+	Correctly predicted 1s:  886  out of 1,639
+	Accuracy of 1s prediction:  54.05735204392923
+
+
+
+--------End of PCA iter--------
+PCA components =  4 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  17005
+	Overall Accuracy =  95.01061571125265
+	Correctly predicted 0s:  16244  out of 16,259
+	Accuracy of 0s prediction:  99.90774340365336
+	Correctly predicted 1s:  761  out of 1,639
+	Accuracy of 1s prediction:  46.4307504575961
+
+
+
+--------End of PCA iter--------
+PCA components =  5 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  17060
+	Overall Accuracy =  95.31791261593474
+	Correctly predicted 0s:  16243  out of 16,259
+	Accuracy of 0s prediction:  99.90159296389692
+	Correctly predicted 1s:  817  out of 1,639
+	Accuracy of 1s prediction:  49.847467968273335
+
+
+
+--------End of PCA iter--------
+PCA components =  6 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16764
+	Overall Accuracy =  93.66409654710023
+	Correctly predicted 0s:  15461  out of 16,259
+	Accuracy of 0s prediction:  95.09194907435882
+	Correctly predicted 1s:  1303  out of 1,639
+	Accuracy of 1s prediction:  79.49969493593655
+
+
+
+--------End of PCA iter--------
+PCA components =  7 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16696
+	Overall Accuracy =  93.2841658285842
+	Correctly predicted 0s:  15471  out of 16,259
+	Accuracy of 0s prediction:  95.15345347192324
+	Correctly predicted 1s:  1225  out of 1,639
+	Accuracy of 1s prediction:  74.74069554606467
+
+
+
+--------End of PCA iter--------
+-----------------------------------------------------------
+Linkage,Affinity =  complete , euclidean 
+
+PCA components =  2 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16928
+	Overall Accuracy =  94.58040004469773
+	Correctly predicted 0s:  16254  out of 16,259
+	Accuracy of 0s prediction:  99.96924780121779
+	Correctly predicted 1s:  674  out of 1,639
+	Accuracy of 1s prediction:  41.122635753508234
+
+
+
+--------End of PCA iter--------
+PCA components =  3 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16597
+	Overall Accuracy =  92.73103140015644
+	Correctly predicted 0s:  16259  out of 16,259
+	Accuracy of 0s prediction:  100.0
+	Correctly predicted 1s:  338  out of 1,639
+	Accuracy of 1s prediction:  20.622330689444784
+
+
+
+--------End of PCA iter--------
+PCA components =  4 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  17080
+	Overall Accuracy =  95.42965694491005
+	Correctly predicted 0s:  15835  out of 16,259
+	Accuracy of 0s prediction:  97.39221354326834
+	Correctly predicted 1s:  1245  out of 1,639
+	Accuracy of 1s prediction:  75.96095179987798
+
+
+
+--------End of PCA iter--------
+PCA components =  5 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  17197
+	Overall Accuracy =  96.08336126941558
+	Correctly predicted 0s:  16240  out of 16,259
+	Accuracy of 0s prediction:  99.88314164462759
+	Correctly predicted 1s:  957  out of 1,639
+	Accuracy of 1s prediction:  58.38926174496644
+
+
+
+--------End of PCA iter--------
+PCA components =  6 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16538
+	Overall Accuracy =  92.4013856296793
+	Correctly predicted 0s:  16259  out of 16,259
+	Accuracy of 0s prediction:  100.0
+	Correctly predicted 1s:  279  out of 1,639
+	Accuracy of 1s prediction:  17.022574740695546
+
+
+
+--------End of PCA iter--------
+PCA components =  7 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  17232
+	Overall Accuracy =  96.27891384512236
+	Correctly predicted 0s:  16240  out of 16,259
+	Accuracy of 0s prediction:  99.88314164462759
+	Correctly predicted 1s:  992  out of 1,639
+	Accuracy of 1s prediction:  60.52471018913972
+
+
+
+--------End of PCA iter--------
+-----------------------------------------------------------
+Linkage,Affinity =  complete , l1 
+
+PCA components =  2 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16725
+	Overall Accuracy =  93.44619510559839
+	Correctly predicted 0s:  16257  out of 16,259
+	Accuracy of 0s prediction:  99.98769912048712
+	Correctly predicted 1s:  468  out of 1,639
+	Accuracy of 1s prediction:  28.55399633923124
+
+
+
+--------End of PCA iter--------
+PCA components =  3 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  14054
+	Overall Accuracy =  78.52273997094647
+	Correctly predicted 0s:  12696  out of 16,259
+	Accuracy of 0s prediction:  78.08598314779506
+	Correctly predicted 1s:  1358  out of 1,639
+	Accuracy of 1s prediction:  82.85539963392313
+
+
+
+--------End of PCA iter--------
+PCA components =  4 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  17181
+	Overall Accuracy =  95.99396580623534
+	Correctly predicted 0s:  16120  out of 16,259
+	Accuracy of 0s prediction:  99.14508887385448
+	Correctly predicted 1s:  1061  out of 1,639
+	Accuracy of 1s prediction:  64.7345942647956
+
+
+
+--------End of PCA iter--------
+PCA components =  5 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16548
+	Overall Accuracy =  92.45725779416695
+	Correctly predicted 0s:  16259  out of 16,259
+	Accuracy of 0s prediction:  100.0
+	Correctly predicted 1s:  289  out of 1,639
+	Accuracy of 1s prediction:  17.632702867602198
+
+
+
+--------End of PCA iter--------
+PCA components =  6 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  15261
+	Overall Accuracy =  85.26651022460611
+	Correctly predicted 0s:  15087  out of 16,259
+	Accuracy of 0s prediction:  92.79168460544929
+	Correctly predicted 1s:  174  out of 1,639
+	Accuracy of 1s prediction:  10.616229408175716
+
+
+
+--------End of PCA iter--------
+PCA components =  7 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16427
+	Overall Accuracy =  91.78120460386636
+	Correctly predicted 0s:  16259  out of 16,259
+	Accuracy of 0s prediction:  100.0
+	Correctly predicted 1s:  168  out of 1,639
+	Accuracy of 1s prediction:  10.250152532031727
+
+
+
+--------End of PCA iter--------
+-----------------------------------------------------------
+Linkage,Affinity =  complete , l2 
+
+PCA components =  2 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16928
+	Overall Accuracy =  94.58040004469773
+	Correctly predicted 0s:  16254  out of 16,259
+	Accuracy of 0s prediction:  99.96924780121779
+	Correctly predicted 1s:  674  out of 1,639
+	Accuracy of 1s prediction:  41.122635753508234
+
+
+
+--------End of PCA iter--------
+PCA components =  3 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16597
+	Overall Accuracy =  92.73103140015644
+	Correctly predicted 0s:  16259  out of 16,259
+	Accuracy of 0s prediction:  100.0
+	Correctly predicted 1s:  338  out of 1,639
+	Accuracy of 1s prediction:  20.622330689444784
+
+
+
+--------End of PCA iter--------
+PCA components =  4 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  17080
+	Overall Accuracy =  95.42965694491005
+	Correctly predicted 0s:  15835  out of 16,259
+	Accuracy of 0s prediction:  97.39221354326834
+	Correctly predicted 1s:  1245  out of 1,639
+	Accuracy of 1s prediction:  75.96095179987798
+
+
+
+--------End of PCA iter--------
+PCA components =  5 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  17197
+	Overall Accuracy =  96.08336126941558
+	Correctly predicted 0s:  16240  out of 16,259
+	Accuracy of 0s prediction:  99.88314164462759
+	Correctly predicted 1s:  957  out of 1,639
+	Accuracy of 1s prediction:  58.38926174496644
+
+
+
+--------End of PCA iter--------
+PCA components =  6 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16538
+	Overall Accuracy =  92.4013856296793
+	Correctly predicted 0s:  16259  out of 16,259
+	Accuracy of 0s prediction:  100.0
+	Correctly predicted 1s:  279  out of 1,639
+	Accuracy of 1s prediction:  17.022574740695546
+
+
+
+--------End of PCA iter--------
+PCA components =  7 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  17232
+	Overall Accuracy =  96.27891384512236
+	Correctly predicted 0s:  16240  out of 16,259
+	Accuracy of 0s prediction:  99.88314164462759
+	Correctly predicted 1s:  992  out of 1,639
+	Accuracy of 1s prediction:  60.52471018913972
+
+
+
+--------End of PCA iter--------
+-----------------------------------------------------------
+Linkage,Affinity =  complete , manhattan 
+
+PCA components =  2 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16725
+	Overall Accuracy =  93.44619510559839
+	Correctly predicted 0s:  16257  out of 16,259
+	Accuracy of 0s prediction:  99.98769912048712
+	Correctly predicted 1s:  468  out of 1,639
+	Accuracy of 1s prediction:  28.55399633923124
+
+
+
+--------End of PCA iter--------
+PCA components =  3 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  14054
+	Overall Accuracy =  78.52273997094647
+	Correctly predicted 0s:  12696  out of 16,259
+	Accuracy of 0s prediction:  78.08598314779506
+	Correctly predicted 1s:  1358  out of 1,639
+	Accuracy of 1s prediction:  82.85539963392313
+
+
+
+--------End of PCA iter--------
+PCA components =  4 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  17181
+	Overall Accuracy =  95.99396580623534
+	Correctly predicted 0s:  16120  out of 16,259
+	Accuracy of 0s prediction:  99.14508887385448
+	Correctly predicted 1s:  1061  out of 1,639
+	Accuracy of 1s prediction:  64.7345942647956
+
+
+
+--------End of PCA iter--------
+PCA components =  5 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16548
+	Overall Accuracy =  92.45725779416695
+	Correctly predicted 0s:  16259  out of 16,259
+	Accuracy of 0s prediction:  100.0
+	Correctly predicted 1s:  289  out of 1,639
+	Accuracy of 1s prediction:  17.632702867602198
+
+
+
+--------End of PCA iter--------
+PCA components =  6 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  15261
+	Overall Accuracy =  85.26651022460611
+	Correctly predicted 0s:  15087  out of 16,259
+	Accuracy of 0s prediction:  92.79168460544929
+	Correctly predicted 1s:  174  out of 1,639
+	Accuracy of 1s prediction:  10.616229408175716
+
+
+
+--------End of PCA iter--------
+PCA components =  7 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16427
+	Overall Accuracy =  91.78120460386636
+	Correctly predicted 0s:  16259  out of 16,259
+	Accuracy of 0s prediction:  100.0
+	Correctly predicted 1s:  168  out of 1,639
+	Accuracy of 1s prediction:  10.250152532031727
+
+
+
+--------End of PCA iter--------
+-----------------------------------------------------------
+Linkage,Affinity =  complete , cosine 
+
+PCA components =  2 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  10884
+	Overall Accuracy =  60.81126382836071
+	Correctly predicted 0s:  9348  out of 16,259
+	Accuracy of 0s prediction:  57.49431084322529
+	Correctly predicted 1s:  1536  out of 1,639
+	Accuracy of 1s prediction:  93.7156802928615
+
+
+
+--------End of PCA iter--------
+PCA components =  3 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  12720
+	Overall Accuracy =  71.06939322829366
+	Correctly predicted 0s:  11168  out of 16,259
+	Accuracy of 0s prediction:  68.6881111999508
+	Correctly predicted 1s:  1552  out of 1,639
+	Accuracy of 1s prediction:  94.69188529591214
+
+
+
+--------End of PCA iter--------
+PCA components =  4 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  12339
+	Overall Accuracy =  68.94066376131411
+	Correctly predicted 0s:  10869  out of 16,259
+	Accuracy of 0s prediction:  66.84912971277447
+	Correctly predicted 1s:  1470  out of 1,639
+	Accuracy of 1s prediction:  89.6888346552776
+
+
+
+--------End of PCA iter--------
+PCA components =  5 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  9461
+	Overall Accuracy =  52.860654821767795
+	Correctly predicted 0s:  9427  out of 16,259
+	Accuracy of 0s prediction:  57.980195583984255
+	Correctly predicted 1s:  34  out of 1,639
+	Accuracy of 1s prediction:  2.0744356314826113
+
+
+
+--------End of PCA iter--------
+PCA components =  6 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  9669
+	Overall Accuracy =  54.02279584311096
+	Correctly predicted 0s:  9637  out of 16,259
+	Accuracy of 0s prediction:  59.2717879328372
+	Correctly predicted 1s:  32  out of 1,639
+	Accuracy of 1s prediction:  1.9524100061012812
+
+
+
+--------End of PCA iter--------
+PCA components =  7 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  14406
+	Overall Accuracy =  80.48944016091184
+	Correctly predicted 0s:  12887  out of 16,259
+	Accuracy of 0s prediction:  79.2607171412756
+	Correctly predicted 1s:  1519  out of 1,639
+	Accuracy of 1s prediction:  92.67846247712019
+
+
+
+--------End of PCA iter--------
+-----------------------------------------------------------
+Linkage,Affinity =  average , euclidean 
+
+PCA components =  2 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  17037
+	Overall Accuracy =  95.18940663761315
+	Correctly predicted 0s:  16249  out of 16,259
+	Accuracy of 0s prediction:  99.93849560243558
+	Correctly predicted 1s:  788  out of 1,639
+	Accuracy of 1s prediction:  48.07809640024405
+
+
+
+--------End of PCA iter--------
+PCA components =  3 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16952
+	Overall Accuracy =  94.7144932394681
+	Correctly predicted 0s:  16247  out of 16,259
+	Accuracy of 0s prediction:  99.92619472292269
+	Correctly predicted 1s:  705  out of 1,639
+	Accuracy of 1s prediction:  43.01403294691885
+
+
+
+--------End of PCA iter--------
+PCA components =  4 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16834
+	Overall Accuracy =  94.0552016985138
+	Correctly predicted 0s:  16256  out of 16,259
+	Accuracy of 0s prediction:  99.98154868073067
+	Correctly predicted 1s:  578  out of 1,639
+	Accuracy of 1s prediction:  35.265405735204396
+
+
+
+--------End of PCA iter--------
+PCA components =  5 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16236
+	Overall Accuracy =  90.7140462621522
+	Correctly predicted 0s:  16235  out of 16,259
+	Accuracy of 0s prediction:  99.85238944584538
+	Correctly predicted 1s:  1  out of 1,639
+	Accuracy of 1s prediction:  0.06101281269066504
+
+
+
+--------End of PCA iter--------
+PCA components =  6 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16256
+	Overall Accuracy =  90.8257905911275
+	Correctly predicted 0s:  16255  out of 16,259
+	Accuracy of 0s prediction:  99.97539824097423
+	Correctly predicted 1s:  1  out of 1,639
+	Accuracy of 1s prediction:  0.06101281269066504
+
+
+
+--------End of PCA iter--------
+PCA components =  7 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16257
+	Overall Accuracy =  90.83137780757626
+	Correctly predicted 0s:  16256  out of 16,259
+	Accuracy of 0s prediction:  99.98154868073067
+	Correctly predicted 1s:  1  out of 1,639
+	Accuracy of 1s prediction:  0.06101281269066504
+
+
+
+--------End of PCA iter--------
+-----------------------------------------------------------
+Linkage,Affinity =  average , l1 
+
+PCA components =  2 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  17292
+	Overall Accuracy =  96.61414683204828
+	Correctly predicted 0s:  16239  out of 16,259
+	Accuracy of 0s prediction:  99.87699120487115
+	Correctly predicted 1s:  1053  out of 1,639
+	Accuracy of 1s prediction:  64.24649176327028
+
+
+
+--------End of PCA iter--------
+PCA components =  3 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16242
+	Overall Accuracy =  90.74756956084478
+	Correctly predicted 0s:  16241  out of 16,259
+	Accuracy of 0s prediction:  99.88929208438404
+	Correctly predicted 1s:  1  out of 1,639
+	Accuracy of 1s prediction:  0.06101281269066504
+
+
+
+--------End of PCA iter--------
+PCA components =  4 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16708
+	Overall Accuracy =  93.35121242596938
+	Correctly predicted 0s:  16258  out of 16,259
+	Accuracy of 0s prediction:  99.99384956024356
+	Correctly predicted 1s:  450  out of 1,639
+	Accuracy of 1s prediction:  27.455765710799266
+
+
+
+--------End of PCA iter--------
+PCA components =  5 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16253
+	Overall Accuracy =  90.80902894178121
+	Correctly predicted 0s:  16252  out of 16,259
+	Accuracy of 0s prediction:  99.9569469217049
+	Correctly predicted 1s:  1  out of 1,639
+	Accuracy of 1s prediction:  0.06101281269066504
+
+
+
+--------End of PCA iter--------
+PCA components =  6 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16255
+	Overall Accuracy =  90.82020337467874
+	Correctly predicted 0s:  16255  out of 16,259
+	Accuracy of 0s prediction:  99.97539824097423
+	Correctly predicted 1s:  0  out of 1,639
+	Accuracy of 1s prediction:  0.0
+
+
+
+--------End of PCA iter--------
+PCA components =  7 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16583
+	Overall Accuracy =  92.65281036987373
+	Correctly predicted 0s:  16259  out of 16,259
+	Accuracy of 0s prediction:  100.0
+	Correctly predicted 1s:  324  out of 1,639
+	Accuracy of 1s prediction:  19.768151311775473
+
+
+
+--------End of PCA iter--------
+-----------------------------------------------------------
+Linkage,Affinity =  average , l2 
+
+PCA components =  2 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  17037
+	Overall Accuracy =  95.18940663761315
+	Correctly predicted 0s:  16249  out of 16,259
+	Accuracy of 0s prediction:  99.93849560243558
+	Correctly predicted 1s:  788  out of 1,639
+	Accuracy of 1s prediction:  48.07809640024405
+
+
+
+--------End of PCA iter--------
+PCA components =  3 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16952
+	Overall Accuracy =  94.7144932394681
+	Correctly predicted 0s:  16247  out of 16,259
+	Accuracy of 0s prediction:  99.92619472292269
+	Correctly predicted 1s:  705  out of 1,639
+	Accuracy of 1s prediction:  43.01403294691885
+
+
+
+--------End of PCA iter--------
+PCA components =  4 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16834
+	Overall Accuracy =  94.0552016985138
+	Correctly predicted 0s:  16256  out of 16,259
+	Accuracy of 0s prediction:  99.98154868073067
+	Correctly predicted 1s:  578  out of 1,639
+	Accuracy of 1s prediction:  35.265405735204396
+
+
+
+--------End of PCA iter--------
+PCA components =  5 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16236
+	Overall Accuracy =  90.7140462621522
+	Correctly predicted 0s:  16235  out of 16,259
+	Accuracy of 0s prediction:  99.85238944584538
+	Correctly predicted 1s:  1  out of 1,639
+	Accuracy of 1s prediction:  0.06101281269066504
+
+
+
+--------End of PCA iter--------
+PCA components =  6 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16256
+	Overall Accuracy =  90.8257905911275
+	Correctly predicted 0s:  16255  out of 16,259
+	Accuracy of 0s prediction:  99.97539824097423
+	Correctly predicted 1s:  1  out of 1,639
+	Accuracy of 1s prediction:  0.06101281269066504
+
+
+
+--------End of PCA iter--------
+PCA components =  7 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16257
+	Overall Accuracy =  90.83137780757626
+	Correctly predicted 0s:  16256  out of 16,259
+	Accuracy of 0s prediction:  99.98154868073067
+	Correctly predicted 1s:  1  out of 1,639
+	Accuracy of 1s prediction:  0.06101281269066504
+
+
+
+--------End of PCA iter--------
+-----------------------------------------------------------
+Linkage,Affinity =  average , manhattan 
+
+PCA components =  2 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  17292
+	Overall Accuracy =  96.61414683204828
+	Correctly predicted 0s:  16239  out of 16,259
+	Accuracy of 0s prediction:  99.87699120487115
+	Correctly predicted 1s:  1053  out of 1,639
+	Accuracy of 1s prediction:  64.24649176327028
+
+
+
+--------End of PCA iter--------
+PCA components =  3 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16242
+	Overall Accuracy =  90.74756956084478
+	Correctly predicted 0s:  16241  out of 16,259
+	Accuracy of 0s prediction:  99.88929208438404
+	Correctly predicted 1s:  1  out of 1,639
+	Accuracy of 1s prediction:  0.06101281269066504
+
+
+
+--------End of PCA iter--------
+PCA components =  4 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16708
+	Overall Accuracy =  93.35121242596938
+	Correctly predicted 0s:  16258  out of 16,259
+	Accuracy of 0s prediction:  99.99384956024356
+	Correctly predicted 1s:  450  out of 1,639
+	Accuracy of 1s prediction:  27.455765710799266
+
+
+
+--------End of PCA iter--------
+PCA components =  5 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16253
+	Overall Accuracy =  90.80902894178121
+	Correctly predicted 0s:  16252  out of 16,259
+	Accuracy of 0s prediction:  99.9569469217049
+	Correctly predicted 1s:  1  out of 1,639
+	Accuracy of 1s prediction:  0.06101281269066504
+
+
+
+--------End of PCA iter--------
+PCA components =  6 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16255
+	Overall Accuracy =  90.82020337467874
+	Correctly predicted 0s:  16255  out of 16,259
+	Accuracy of 0s prediction:  99.97539824097423
+	Correctly predicted 1s:  0  out of 1,639
+	Accuracy of 1s prediction:  0.0
+
+
+
+--------End of PCA iter--------
+PCA components =  7 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16583
+	Overall Accuracy =  92.65281036987373
+	Correctly predicted 0s:  16259  out of 16,259
+	Accuracy of 0s prediction:  100.0
+	Correctly predicted 1s:  324  out of 1,639
+	Accuracy of 1s prediction:  19.768151311775473
+
+
+
+--------End of PCA iter--------
+-----------------------------------------------------------
+Linkage,Affinity =  average , cosine 
+
+PCA components =  2 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  15819
+	Overall Accuracy =  88.3841770030171
+	Correctly predicted 0s:  14632  out of 16,259
+	Accuracy of 0s prediction:  89.99323451626792
+	Correctly predicted 1s:  1187  out of 1,639
+	Accuracy of 1s prediction:  72.4222086638194
+
+
+
+--------End of PCA iter--------
+PCA components =  3 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16112
+	Overall Accuracy =  90.02123142250531
+	Correctly predicted 0s:  14657  out of 16,259
+	Accuracy of 0s prediction:  90.14699551017898
+	Correctly predicted 1s:  1455  out of 1,639
+	Accuracy of 1s prediction:  88.77364246491763
+
+
+
+--------End of PCA iter--------
+PCA components =  4 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  11794
+	Overall Accuracy =  65.89563079673707
+	Correctly predicted 0s:  10226  out of 16,259
+	Accuracy of 0s prediction:  62.89439694938188
+	Correctly predicted 1s:  1568  out of 1,639
+	Accuracy of 1s prediction:  95.66809029896278
+
+
+
+--------End of PCA iter--------
+PCA components =  5 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  13002
+	Overall Accuracy =  72.64498826684546
+	Correctly predicted 0s:  11447  out of 16,259
+	Accuracy of 0s prediction:  70.40408389199828
+	Correctly predicted 1s:  1555  out of 1,639
+	Accuracy of 1s prediction:  94.87492373398413
+
+
+
+--------End of PCA iter--------
+PCA components =  6 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  12659
+	Overall Accuracy =  70.72857302491899
+	Correctly predicted 0s:  12358  out of 16,259
+	Accuracy of 0s prediction:  76.00713451011747
+	Correctly predicted 1s:  301  out of 1,639
+	Accuracy of 1s prediction:  18.364856619890176
+
+
+
+--------End of PCA iter--------
+PCA components =  7 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  13660
+	Overall Accuracy =  76.32137669013298
+	Correctly predicted 0s:  12110  out of 16,259
+	Accuracy of 0s prediction:  74.48182545051971
+	Correctly predicted 1s:  1550  out of 1,639
+	Accuracy of 1s prediction:  94.56985967053082
+
+
+
+--------End of PCA iter--------
+-----------------------------------------------------------
+Linkage,Affinity =  single , euclidean 
+
+PCA components =  2 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16260
+	Overall Accuracy =  90.84813945692257
+	Correctly predicted 0s:  16259  out of 16,259
+	Accuracy of 0s prediction:  100.0
+	Correctly predicted 1s:  1  out of 1,639
+	Accuracy of 1s prediction:  0.06101281269066504
+
+
+
+--------End of PCA iter--------
+PCA components =  3 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16260
+	Overall Accuracy =  90.84813945692257
+	Correctly predicted 0s:  16259  out of 16,259
+	Accuracy of 0s prediction:  100.0
+	Correctly predicted 1s:  1  out of 1,639
+	Accuracy of 1s prediction:  0.06101281269066504
+
+
+
+--------End of PCA iter--------
+PCA components =  4 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16258
+	Overall Accuracy =  90.83696502402503
+	Correctly predicted 0s:  16258  out of 16,259
+	Accuracy of 0s prediction:  99.99384956024356
+	Correctly predicted 1s:  0  out of 1,639
+	Accuracy of 1s prediction:  0.0
+
+
+
+--------End of PCA iter--------
+PCA components =  5 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16258
+	Overall Accuracy =  90.83696502402503
+	Correctly predicted 0s:  16258  out of 16,259
+	Accuracy of 0s prediction:  99.99384956024356
+	Correctly predicted 1s:  0  out of 1,639
+	Accuracy of 1s prediction:  0.0
+
+
+
+--------End of PCA iter--------
+PCA components =  6 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16258
+	Overall Accuracy =  90.83696502402503
+	Correctly predicted 0s:  16258  out of 16,259
+	Accuracy of 0s prediction:  99.99384956024356
+	Correctly predicted 1s:  0  out of 1,639
+	Accuracy of 1s prediction:  0.0
+
+
+
+--------End of PCA iter--------
+PCA components =  7 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16258
+	Overall Accuracy =  90.83696502402503
+	Correctly predicted 0s:  16258  out of 16,259
+	Accuracy of 0s prediction:  99.99384956024356
+	Correctly predicted 1s:  0  out of 1,639
+	Accuracy of 1s prediction:  0.0
+
+
+
+--------End of PCA iter--------
+-----------------------------------------------------------
+Linkage,Affinity =  single , l1 
+
+PCA components =  2 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16260
+	Overall Accuracy =  90.84813945692257
+	Correctly predicted 0s:  16259  out of 16,259
+	Accuracy of 0s prediction:  100.0
+	Correctly predicted 1s:  1  out of 1,639
+	Accuracy of 1s prediction:  0.06101281269066504
+
+
+
+--------End of PCA iter--------
+PCA components =  3 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16260
+	Overall Accuracy =  90.84813945692257
+	Correctly predicted 0s:  16259  out of 16,259
+	Accuracy of 0s prediction:  100.0
+	Correctly predicted 1s:  1  out of 1,639
+	Accuracy of 1s prediction:  0.06101281269066504
+
+
+
+--------End of PCA iter--------
+PCA components =  4 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16258
+	Overall Accuracy =  90.83696502402503
+	Correctly predicted 0s:  16258  out of 16,259
+	Accuracy of 0s prediction:  99.99384956024356
+	Correctly predicted 1s:  0  out of 1,639
+	Accuracy of 1s prediction:  0.0
+
+
+
+--------End of PCA iter--------
+PCA components =  5 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16258
+	Overall Accuracy =  90.83696502402503
+	Correctly predicted 0s:  16258  out of 16,259
+	Accuracy of 0s prediction:  99.99384956024356
+	Correctly predicted 1s:  0  out of 1,639
+	Accuracy of 1s prediction:  0.0
+
+
+
+--------End of PCA iter--------
+PCA components =  6 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16258
+	Overall Accuracy =  90.83696502402503
+	Correctly predicted 0s:  16258  out of 16,259
+	Accuracy of 0s prediction:  99.99384956024356
+	Correctly predicted 1s:  0  out of 1,639
+	Accuracy of 1s prediction:  0.0
+
+
+
+--------End of PCA iter--------
+PCA components =  7 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16258
+	Overall Accuracy =  90.83696502402503
+	Correctly predicted 0s:  16258  out of 16,259
+	Accuracy of 0s prediction:  99.99384956024356
+	Correctly predicted 1s:  0  out of 1,639
+	Accuracy of 1s prediction:  0.0
+
+
+
+--------End of PCA iter--------
+-----------------------------------------------------------
+Linkage,Affinity =  single , l2 
+
+PCA components =  2 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16260
+	Overall Accuracy =  90.84813945692257
+	Correctly predicted 0s:  16259  out of 16,259
+	Accuracy of 0s prediction:  100.0
+	Correctly predicted 1s:  1  out of 1,639
+	Accuracy of 1s prediction:  0.06101281269066504
+
+
+
+--------End of PCA iter--------
+PCA components =  3 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16260
+	Overall Accuracy =  90.84813945692257
+	Correctly predicted 0s:  16259  out of 16,259
+	Accuracy of 0s prediction:  100.0
+	Correctly predicted 1s:  1  out of 1,639
+	Accuracy of 1s prediction:  0.06101281269066504
+
+
+
+--------End of PCA iter--------
+PCA components =  4 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16258
+	Overall Accuracy =  90.83696502402503
+	Correctly predicted 0s:  16258  out of 16,259
+	Accuracy of 0s prediction:  99.99384956024356
+	Correctly predicted 1s:  0  out of 1,639
+	Accuracy of 1s prediction:  0.0
+
+
+
+--------End of PCA iter--------
+PCA components =  5 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16258
+	Overall Accuracy =  90.83696502402503
+	Correctly predicted 0s:  16258  out of 16,259
+	Accuracy of 0s prediction:  99.99384956024356
+	Correctly predicted 1s:  0  out of 1,639
+	Accuracy of 1s prediction:  0.0
+
+
+
+--------End of PCA iter--------
+PCA components =  6 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16258
+	Overall Accuracy =  90.83696502402503
+	Correctly predicted 0s:  16258  out of 16,259
+	Accuracy of 0s prediction:  99.99384956024356
+	Correctly predicted 1s:  0  out of 1,639
+	Accuracy of 1s prediction:  0.0
+
+
+
+--------End of PCA iter--------
+PCA components =  7 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16258
+	Overall Accuracy =  90.83696502402503
+	Correctly predicted 0s:  16258  out of 16,259
+	Accuracy of 0s prediction:  99.99384956024356
+	Correctly predicted 1s:  0  out of 1,639
+	Accuracy of 1s prediction:  0.0
+
+
+
+--------End of PCA iter--------
+-----------------------------------------------------------
+Linkage,Affinity =  single , manhattan 
+
+PCA components =  2 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16260
+	Overall Accuracy =  90.84813945692257
+	Correctly predicted 0s:  16259  out of 16,259
+	Accuracy of 0s prediction:  100.0
+	Correctly predicted 1s:  1  out of 1,639
+	Accuracy of 1s prediction:  0.06101281269066504
+
+
+
+--------End of PCA iter--------
+PCA components =  3 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16260
+	Overall Accuracy =  90.84813945692257
+	Correctly predicted 0s:  16259  out of 16,259
+	Accuracy of 0s prediction:  100.0
+	Correctly predicted 1s:  1  out of 1,639
+	Accuracy of 1s prediction:  0.06101281269066504
+
+
+
+--------End of PCA iter--------
+PCA components =  4 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16258
+	Overall Accuracy =  90.83696502402503
+	Correctly predicted 0s:  16258  out of 16,259
+	Accuracy of 0s prediction:  99.99384956024356
+	Correctly predicted 1s:  0  out of 1,639
+	Accuracy of 1s prediction:  0.0
+
+
+
+--------End of PCA iter--------
+PCA components =  5 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16258
+	Overall Accuracy =  90.83696502402503
+	Correctly predicted 0s:  16258  out of 16,259
+	Accuracy of 0s prediction:  99.99384956024356
+	Correctly predicted 1s:  0  out of 1,639
+	Accuracy of 1s prediction:  0.0
+
+
+
+--------End of PCA iter--------
+PCA components =  6 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16258
+	Overall Accuracy =  90.83696502402503
+	Correctly predicted 0s:  16258  out of 16,259
+	Accuracy of 0s prediction:  99.99384956024356
+	Correctly predicted 1s:  0  out of 1,639
+	Accuracy of 1s prediction:  0.0
+
+
+
+--------End of PCA iter--------
+PCA components =  7 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16258
+	Overall Accuracy =  90.83696502402503
+	Correctly predicted 0s:  16258  out of 16,259
+	Accuracy of 0s prediction:  99.99384956024356
+	Correctly predicted 1s:  0  out of 1,639
+	Accuracy of 1s prediction:  0.0
+
+
+
+--------End of PCA iter--------
+-----------------------------------------------------------
+Linkage,Affinity =  single , cosine 
+
+PCA components =  2 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16202
+	Overall Accuracy =  90.52408090289418
+	Correctly predicted 0s:  16158  out of 16,259
+	Accuracy of 0s prediction:  99.3788055845993
+	Correctly predicted 1s:  44  out of 1,639
+	Accuracy of 1s prediction:  2.684563758389262
+
+
+
+--------End of PCA iter--------
+PCA components =  3 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16258
+	Overall Accuracy =  90.83696502402503
+	Correctly predicted 0s:  16258  out of 16,259
+	Accuracy of 0s prediction:  99.99384956024356
+	Correctly predicted 1s:  0  out of 1,639
+	Accuracy of 1s prediction:  0.0
+
+
+
+--------End of PCA iter--------
+PCA components =  4 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16260
+	Overall Accuracy =  90.84813945692257
+	Correctly predicted 0s:  16259  out of 16,259
+	Accuracy of 0s prediction:  100.0
+	Correctly predicted 1s:  1  out of 1,639
+	Accuracy of 1s prediction:  0.06101281269066504
+
+
+
+--------End of PCA iter--------
+PCA components =  5 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16258
+	Overall Accuracy =  90.83696502402503
+	Correctly predicted 0s:  16258  out of 16,259
+	Accuracy of 0s prediction:  99.99384956024356
+	Correctly predicted 1s:  0  out of 1,639
+	Accuracy of 1s prediction:  0.0
+
+
+
+--------End of PCA iter--------
+PCA components =  6 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16258
+	Overall Accuracy =  90.83696502402503
+	Correctly predicted 0s:  16258  out of 16,259
+	Accuracy of 0s prediction:  99.99384956024356
+	Correctly predicted 1s:  0  out of 1,639
+	Accuracy of 1s prediction:  0.0
+
+
+
+--------End of PCA iter--------
+PCA components =  7 
+
+	Total number of data points:  17898
+	Total number of correct predictions:  16258
+	Overall Accuracy =  90.83696502402503
+	Correctly predicted 0s:  16258  out of 16,259
+	Accuracy of 0s prediction:  99.99384956024356
+	Correctly predicted 1s:  0  out of 1,639
+	Accuracy of 1s prediction:  0.0
+
+
+
+--------End of PCA iter--------
+-----------------------------------------------------------
+[[[96.39065817  0.          0.          0.          0.        ]
+  [94.58040004 93.44619511 94.58040004 93.44619511 60.81126383]
+  [95.18940664 96.61414683 95.18940664 96.61414683 88.384177  ]
+  [90.84813946 90.84813946 90.84813946 90.84813946 90.5240809 ]]
+
+ [[95.7201922   0.          0.          0.          0.        ]
+  [92.7310314  78.52273997 92.7310314  78.52273997 71.06939323]
+  [94.71449324 90.74756956 94.71449324 90.74756956 90.02123142]
+  [90.84813946 90.84813946 90.84813946 90.84813946 90.83696502]]
+
+ [[95.01061571  0.          0.          0.          0.        ]
+  [95.42965694 95.99396581 95.42965694 95.99396581 68.94066376]
+  [94.0552017  93.35121243 94.0552017  93.35121243 65.8956308 ]
+  [90.83696502 90.83696502 90.83696502 90.83696502 90.84813946]]
+
+ [[95.31791262  0.          0.          0.          0.        ]
+  [96.08336127 92.45725779 96.08336127 92.45725779 52.86065482]
+  [90.71404626 90.80902894 90.71404626 90.80902894 72.64498827]
+  [90.83696502 90.83696502 90.83696502 90.83696502 90.83696502]]
+
+ [[93.66409655  0.          0.          0.          0.        ]
+  [92.40138563 85.26651022 92.40138563 85.26651022 54.02279584]
+  [90.82579059 90.82020337 90.82579059 90.82020337 70.72857302]
+  [90.83696502 90.83696502 90.83696502 90.83696502 90.83696502]]
+
+ [[93.28416583  0.          0.          0.          0.        ]
+  [96.27891385 91.7812046  96.27891385 91.7812046  80.48944016]
+  [90.83137781 92.65281037 90.83137781 92.65281037 76.32137669]
+  [90.83696502 90.83696502 90.83696502 90.83696502 90.83696502]]]
+
+
+Max 0s Accuracy =  100.0 In  complete,euclidean,PCA comps: 3
+Max 1s Accuracy =  95.66809029896278 In  average,cosine,PCA comps: 4
+
